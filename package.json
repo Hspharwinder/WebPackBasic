@@ -1,0 +1,13 @@
+{
+  "name": "WebPacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack -w",
+    "watch": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
